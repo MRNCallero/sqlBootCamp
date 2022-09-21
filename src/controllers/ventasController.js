@@ -1,3 +1,4 @@
-const ventasController{
-    
+const ventasController = {
+
 }
+module.exports = ventasController;
